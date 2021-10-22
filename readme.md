@@ -10,12 +10,12 @@
 
 ## Microservices
 
-    App Structure:
+    ## App Structure:
         Services
         Database
         Event Bus
     
-    App Components:
+    ## App Components:
         Search
         Products
         Product Recommendation
